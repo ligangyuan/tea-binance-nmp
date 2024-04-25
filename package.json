@@ -1,6 +1,6 @@
 {
   "name": "@ligangyuan/tea-binance-nmp",
-  "version": "1.0.3",
+  "version": "10.6.0",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -17,7 +17,7 @@
     "client",
     "arbitrim"
   ],
-  "author": "moncici007",
+  "author": "ligangyuan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ligangyuan/binance/issues"
@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/ligangyuan/binance#readme",
   "dependencies": {
-    "@moncici/date-time-processor": "^1.0.3",
-    "@moncici/log": "^1.0.2",
-    "@moncici/proxy": "^1.0.3",
-    "@moncici/sleep": "^1.0.1",
+    "@ligangyuan/date-time-processor": "^10.6.0",
+    "@ligangyuan/log": "^1.0.2",
+    "@ligangyuan/proxy": "^1.0.3",
+    "@ligangyuan/sleep": "^1.0.1",
     "feishu-notifier": "^1.0.3"
   }
 }
